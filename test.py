@@ -1,0 +1,1 @@
+print("Test compile code with python on Jenkins.")
